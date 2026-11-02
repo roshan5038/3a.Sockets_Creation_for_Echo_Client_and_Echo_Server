@@ -44,6 +44,9 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 
 
 ## OUPUT
+<img width="954" height="148" alt="593923700-ff4ca04a-46ad-4978-96b7-dd3648865386" src="https://github.com/user-attachments/assets/6d03553f-0eca-4e42-a40b-009cd9dec21c" />
+
+
 <img width="957" height="122" alt="593923743-95a31610-8a2a-4524-8a6e-d504c4b1fe6c" src="https://github.com/user-attachments/assets/ff7fe87e-7041-4d96-a0ec-6fefe8bdece3" />
 
 ## RESULT
